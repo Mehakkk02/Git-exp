@@ -1,3 +1,1 @@
-This is my Git Version Control Experiment.
-
-Feature X has been added successfully.
+This is the FEATURE branch version.
